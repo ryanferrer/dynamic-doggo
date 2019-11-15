@@ -1,3 +1,9 @@
+# What's new!?
+
+[![Build Status](https://travis-ci.com/ryanferrer/dynamic-doggo.svg?branch=demo-TCI)](https://travis-ci.com/ryanferrer/dynamic-doggo)
+
+Hiya folks! Here at Soko Micro Services, we've added Travis-CI support to our Dynamic-Doggo! You can tell by the fancy badge!
+
 # What is Dynamic Doggo?
 
 Dynamic Doggo is a small to medium scale `React App` boiler plate.
